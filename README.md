@@ -51,3 +51,8 @@ Make sure the virtual environment is activated before running Jupyter. If you ar
     </td>
   </tr>
 </table>
+
+## Join the Conversation on RiTA 🇮🇹
+
+**[RiTA](https://github.com/RiTA-nlp)** (Risorse per la Lingua Italiana) is a new community aimed at bringing together enthusiasts and professionals of Italian computational linguistics and to create new collaborations for the construction of resources for the Italian language. If you are working on NLP-related topics and want to keep up with latest initiatives
+from the Italian research community, you can join the conversation on the [RiTA Discord](https://discord.gg/NHRCVqjaDM) server. See you there! 🙂
