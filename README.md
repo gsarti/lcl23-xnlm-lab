@@ -6,9 +6,9 @@ This repository contains materials for the lab *"Explaining Neural Language Mode
 
 The lab session is divided in two parts:
 
-- The [first part](notebooks/1_Prompting_Probing.ipynb) introduces prompting approaches for evaluating the linguistic and factual knowledge of neural language models and shows how diagnostic classifiers can be used to study  models' internal representations.
+- Notebooks [1.1](notebooks/1.1_Transformer_Syntactic_Abilities.ipynb) and [1.2](notebooks/1.2_Probing.ipynb) introduce probing approaches for evaluating the linguistic knowledge of neural language models and shows how diagnostic classifiers can be used to study  models' internal representations.
 
-- The [second part](notebooks/2_Attribution_Contrastive.ipynb) discusses feature attribution methods and their usage to identify biases and prediction errors in NLMs for classification and generation tasks, especially when paired with contrastive input options.
+- Notebook [2](notebooks/2_Attribution_Contrastive.ipynb) discusses feature attribution methods and their usage to identify biases and prediction errors in NLMs for classification and generation tasks.
 
 You can find a notebook for each part in the [`notebooks`](notebooks/) folder.
 
